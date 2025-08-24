@@ -159,4 +159,4 @@ source "/path/to/tim_breeze/tim_breeze_aliases.sh"
 
 ## Credits
 
-This utility is inspired by [SCM Breeze](https://github.com/scmbreeze/scm_breeze?tab=readme-ov-file#updating), an excellent Git workflow enhancement tool. Tim Breeze provides a simplified, Claude Code-compatible alternative focused on essential Git aliases.
+This utility is inspired by [SCM Breeze](https://github.com/scmbreeze/scm_breeze?), an excellent Git workflow enhancement tool. Tim Breeze provides a simplified, Claude Code-compatible alternative focused on essential Git aliases.
