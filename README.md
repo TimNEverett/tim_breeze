@@ -72,6 +72,7 @@ The installer will automatically detect your shell (Bash/Zsh) and add the aliase
 - `gr` - git reset
 - `grh` - git reset --hard
 - `grsl` - git reset HEAD~1
+- `grt` - git restore
 
 ### Rebase Operations
 

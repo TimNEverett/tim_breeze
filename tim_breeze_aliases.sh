@@ -47,6 +47,7 @@ alias gpsf='git push --force-with-lease'
 alias gr='git reset'
 alias grh='git reset --hard'
 alias grsl='git reset HEAD~1'
+alias grt='git restore'
 
 # Rebase operations
 alias grb='git rebase'
